@@ -34,7 +34,7 @@ sections:
   - page
   - tags
   - search
-upload_dir: ''
+upload_dir: media
 public_path: "/media"
 front_matter_path: ''
 use_front_matter_path: 
